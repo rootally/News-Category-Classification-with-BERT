@@ -9,6 +9,8 @@ This dataset contains around 200k news headlines from the year 2012 to 2018 obta
   - [x] Bi-GRU + CONV
   - [x] LSTM + Attention
   
+## Try it on [Colab Notebook](https://colab.research.google.com/drive/1wPXAuNP-iXsXxBhxG0l6Yv94gqlGNPJB)
+
 # TL;DR
   
 * [glove.840B.300d](http://nlp.stanford.edu/data/glove.840B.300d.zip) (840B tokens, 2.2M vocab, cased, 300d vectors, 2.03 GB download) was used as the embedding layer for the Bi-GRU and LSTM models.
