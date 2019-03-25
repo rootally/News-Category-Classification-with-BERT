@@ -17,7 +17,7 @@ This dataset contains around 200k news headlines from the year 2012 to 2018 obta
 * bert-base-uncased (12-layer, 768-hidden, 12-heads, 110M parameters) pre-trained model was used.
 
 # Resuts
-- `BERT` - test_accuracy: 1.0, test_loss: 0.0015671474330127238
+- `BERT` - test_accuracy: 0.72, test_loss: 0.0015671474330127238
 - `Bidirectional GRU + Conv` - test_accuracy: 0.6545
 - `LSTM with Attention` - test_accuracy: 0.67144
 
